@@ -1,6 +1,5 @@
 # 2011004095 Jongwon Lee
 
-# For 1st assignment of Data Mining lecture.
 # This program's goal is to find association rules.
 # We will give transaction lists(input.txt) and minimum support for input.
 # Confidence of association rule doesn't make matter.
