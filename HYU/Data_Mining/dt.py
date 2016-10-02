@@ -1,6 +1,5 @@
 # 2011004095 Lee Jongwon
 
-# For 2st assignment of Data Mining lecture.
 # This program's goal is to build decision tree.
 # We will give training set(dt_train.txt) and testing set(dt_test.txt).
 # the program will make dt_result.txt file that contains testing set that classified.
