@@ -1,6 +1,5 @@
 # 2011004095 Lee Jongwon
 
-# For 3rd assignment of Data Mining lecture.
 # This program's goal is to cluster given datas with given k value (number of clusters).
 # Input file's name is input#.txt that contains objects to be clustered.
 # The program will make output#_cluster_#.txt file that contains objects in cluster_#.
