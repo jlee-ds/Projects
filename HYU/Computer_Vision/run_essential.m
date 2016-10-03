@@ -1,4 +1,4 @@
-% run_hw2
+% run_functions to get essential matrix.
 
 n = 100;
 n_outlier = 10;
