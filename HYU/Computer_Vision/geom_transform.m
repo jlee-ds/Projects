@@ -1,3 +1,8 @@
+% LEE JONGWON
+% according to parameter's size, this function will show adaptive result.
+% given image will be transformed to gray image, and new image will be color.
+% matlab source.
+
 function img_out = geom_transform(img_in, param)
 
 	ssx = size(img_in)
@@ -96,26 +101,3 @@ function img_out = geom_transform(img_in, param)
 	imwrite(img_out, 'img_out.jpg')
 
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
