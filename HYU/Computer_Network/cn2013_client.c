@@ -1,6 +1,6 @@
 /*
  * cn2013_client.c
- * 2011004095 이종원
+ * 2011004095 LEE JONGWON
  */
 
 #include <stdio.h>			//for standard function in C.
